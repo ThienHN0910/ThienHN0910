@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Thiện!;+Fullstack+(Fresher)" />
 </h1>
 
-## 👨‍💻 Overview: [here](https://thienhn0910.github.io/ThienHN0910/)
+## 👨‍💻 Overview: [here](https://thienhn0910.vercel.app/about)
 I am a fresher fullstack developer skilled in .NET, Vue 3, React, Bootstrap 5, Tailwind CSS, and more. I have experience with Git, Docker, Kali Linux, Postman, EPPlus, PDF.js, PDF-lib, and other modern development tools.
 
 ## 💻 Tech Stack
