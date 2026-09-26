@@ -1,7 +1,7 @@
 # HỒ NGỌC THIỆN — Fullstack Developer
 
 **Location:** Da Nang, Vietnam • **Phone:** (+84) 855-660-952 • **Email:** hnt.vn.vn@gmail.com  
-**GitHub:** [https://github.com/ThienHN0910](https://github.com/ThienHN0910) • **Portfolio:** [https://thienhn0910.vercel.app/about](https://thienhn0910.vercel.app/about)
+**GitHub:** [https://github.com/ThienHN0910](https://github.com/ThienHN0910) • **Portfolio:** [https://thienhn.io.vn](https://thienhn.io.vn)
 
 ---
 
